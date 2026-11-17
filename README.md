@@ -1,13 +1,21 @@
 # sysadmin-toolbelt
-Collection of PowerShell scripts developed to automate common systems administration, Microsoft 365 administration, identity management, endpoint management, reporting, and operational tasks.
+Collection of PowerShell scripts developed to automate common systems administration and Microsoft 365 administration tasks.
 
-Included Examples
-Active Directory user provisioning
-Entra ID account administration
-Password management automation
-Windows Update status reporting
-Email hygiene reporting
-Endpoint maintenance automation
-User inventory and reporting
-
-Technologies: Microsoft 365, Entra ID, Active Directory, PowerShell, Windows Administration
+Areas Covered
+Active Directory Administration
+Entra ID Administration
+User Provisioning
+Password Management
+Endpoint Maintenance
+Microsoft 365 Reporting
+Email Administration
+Windows Update Management
+Operational Automation
+Technologies
+PowerShell
+Microsoft 365
+Entra ID
+Active Directory
+Exchange Online
+Windows Administration
+All examples have been sanitized to remove organization-specific information.
