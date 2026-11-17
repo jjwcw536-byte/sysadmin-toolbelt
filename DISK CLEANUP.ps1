@@ -1,7 +1,7 @@
 ﻿
 
 # use this to initiate the remote session in Powershell and run SFC /scannow w/o prompting on remote computer
-Enter-PSSession -Computer dedham01
+Enter-PSSession -Computer <COMPUTER NAME>
 
 
 
