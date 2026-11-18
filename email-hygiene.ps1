@@ -96,7 +96,7 @@ $HighPhish = $messages |
 
 ### VirusTotal
 
-$VTApiKey = "60ed0e5a8fd0a2797e26a57125ccf4b1345e3fc7d4012349ad92e08e7f7a421e"
+$VTApiKey = "ENTER VIRUS TOTAL API KEY HERE"
 
 function Get-VTDomainInfo {
 
